@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS03AXPS-PC03A-06-VADCPA301-streamed-vadcp_velocity_beam
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: ADCP<br>
