@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXPS-PC03A-06-VADCPA301-streamed-vadcp_velocity_beam
 data_stream: RS03AXPS-PC03A-06-VADCPA301-streamed-vadcp_velocity_beam
 end_date: '2021-08-03T01:24:38.936Z'
-last_updated: '2022-02-10T11:40:01.290564Z'
+last_updated: '2022-02-10T20:25:17.184255'
 start_date: '2014-10-02T13:23:15.470Z'
-status: pending
+status: success
